@@ -1,41 +1,65 @@
 # Recommended Gems for Flatiron School Ruby Developers
 
-### [Simple Form](https://github.com/plataformatec/simple_form)
+### Simple Form
+
+[Available here](https://github.com/plataformatec/simple_form). 
 
 Great for taking the repetitiveness out of building forms. It's a DSL you have to learn but once you understand the Rails Form helpers, this saves a ton of time and is bootstrap compatible.
 
-### [Kaminari - Pagination](https://github.com/amatsuda/kaminari)
+### Kaminari - Pagination
+
+[Available here](https://github.com/amatsuda/kaminari). 
 
 Great pagination gem.
 
-### [Friendly ID - URL slugs](https://github.com/norman/friendly_id)
+### Friendly ID
+
+[Available here](https://github.com/norman/friendly_id). 
 
 Easy to use slug support in URLs.
 
-### [Acts as Taggable](https://github.com/mbleigh/acts-as-taggable-on)
+### Acts as Taggable
+
+[Available here](https://github.com/mbleigh/acts-as-taggable-on). 
 
 I think implementing this yourself is a better idea but this is popular.
 
-### [Chronic](https://github.com/mojombo/chronic)
+### Chronic
+
+[Available here](https://github.com/mojombo/chronic). 
 
 NLP for Date Times.
 
-### Geocoder(http://www.rubygeocoder.com/)
+### Geocoder
 
-For all your geolocation and place normalization needs. I like to use [leaflet.js](http://leafletjs.com/) with [Mapbox](https://www.mapbox.com/) to have more control over how the maps look.
+[Available here](http://www.rubygeocoder.com/). 
 
-### [Paperclip File Upload Option 1](https://github.com/thoughtbot/paperclip)
+For all your geolocation and place normalization needs. I like to use [leaflet.js]( control over how the maps look.
 
-### [Carrierwave File Upload Option 2](https://github.com/carrierwaveuploader/carrierwave)
+[Available here](http://leafletjs.com/) with [Mapbox](https://www.mapbox.com/) to have more). 
 
-### [Devise - Authentication](https://github.com/plataformatec/devise)
+### Paperclip File Upload Option 1
 
-### [Figaro](https://github.com/laserlemon/figaro)
+[Available here](https://github.com/thoughtbot/paperclip). 
+
+### Carrierwave File Upload Option 2
+
+[Available here](https://github.com/carrierwaveuploader). 
+
+### Devise - Authentication
+
+[Available here](https://github.com/plataformatec/devise). 
+
+### Figaro
+
+[Available here](https://github.com/laserlemon/figaro). 
 
 Rails app configuration gem that simplifies the process of setting up environment configurations for deployment to Heroku.
 
-### [Omniauth](http://intridea.github.io/omniauth/)
+### Omniauth
+
+[Available here](http://intridea.github.io/omniauth/). 
 
 Allows for your app to authenticate users through other web applications (such as Twitter, Gmail, Github, etc).
 
-https://www.ruby-toolbox.com/categories/by_name for more.
+[Search Ruby Toolbox](https://www.ruby-toolbox.com/categories/by_name) for more. 
