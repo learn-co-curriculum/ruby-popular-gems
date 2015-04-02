@@ -62,4 +62,10 @@ Rails app configuration gem that simplifies the process of setting up environmen
 
 Allows for your app to authenticate users through other web applications (such as Twitter, Gmail, Github, etc).
 
+### Pundit
+
+[Available here](https://github.com/elabs/pundit).
+
+Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
+
 [Search Ruby Toolbox](https://www.ruby-toolbox.com/categories/by_name) for more. 
