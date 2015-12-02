@@ -69,3 +69,5 @@ Allows for your app to authenticate users through other web applications (such a
 Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
 
 [Search Ruby Toolbox](https://www.ruby-toolbox.com/categories/by_name) for more. 
+
+<a href='https://learn.co/lessons/ruby-popular-gems' data-visibility='hidden'>View this lesson on Learn.co</a>
