@@ -70,4 +70,4 @@ Pundit provides a set of helpers which guide you in leveraging regular Ruby clas
 
 [Search Ruby Toolbox](https://www.ruby-toolbox.com/categories/by_name) for more. 
 
-<a href='https://learn.co/lessons/ruby-popular-gems' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-popular-gems' title='Recommended Gems for Flatiron School Ruby Developers'>Recommended Gems for Flatiron School Ruby Developers</a> on Learn.co and start learning to code for free.</p>
